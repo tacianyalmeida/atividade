@@ -1,0 +1,23 @@
+section{
+    max-width: 1000px;
+    margin: 1000px auto;
+    border-radius: 50px;
+    background-color:indianred;
+    color: black;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    padding: 100px;
+}
+input{
+ margin-bottom: 20px; 
+ padding: 13px;  
+}
+button{
+    margin-bottom: 100px;
+    padding: 10px;
+    border-radius: 70px;
+    max-width: 100px;
+}
